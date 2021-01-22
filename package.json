@@ -11,7 +11,7 @@
     "apollo-server-lambda": "^2.19.2",
     "graphql": "^14.6.0",
     "@architect/sandbox": "^3.3",
-    "@begin/data": "",
+    "@begin/data": "latest",
     "cross-env": "^7.0.3",
     "tap-spec": "^5.0.0",
     "tape": "^5.1.1",
